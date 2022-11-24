@@ -1,0 +1,6 @@
+digital - approved
+market - approved
+
+Note
+Changes in file sharing security policy
+All files should be secured by password
