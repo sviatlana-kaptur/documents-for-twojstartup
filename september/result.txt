@@ -2,3 +2,5 @@
 11-04 - check the links
 
 Please next time do not mix up docs in version folders
+
+security checked
