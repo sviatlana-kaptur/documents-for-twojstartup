@@ -1,0 +1,6 @@
+hybrid - approved
+role - approved
+slo - approved
+
+Note:
+No need to insert '(secured)' in file name
