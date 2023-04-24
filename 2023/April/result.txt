@@ -1,0 +1,2 @@
+1. Please change filenames - remove '.doc'
+2. Change the font to 'Times New Roman' in the report file
